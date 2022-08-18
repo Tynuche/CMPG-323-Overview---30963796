@@ -2,12 +2,6 @@
 
 All projects will be done in on repository
 
-Project 1
-Project 2
-Project 3
-Project 4
-Project 5
-
 ## Diagram explaining project and repository context and how they are intergrated
 
 ![project_process](https://user-images.githubusercontent.com/81583779/185399175-730ed5ae-dd69-43d9-a6e1-73ef1e954764.PNG)
